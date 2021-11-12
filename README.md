@@ -5,3 +5,9 @@ Examination Survey NHANES. We will use the data you prepare in this question as 
 point for analyses in one or more future problem sets. For this problem, you should use the four 
 cohorts spanning the years 2011-2018.
 https://github.com/simoncxt/stats507/commit/1ff09a3e58680b47e778d479c0e70ca5efa0c8e3
+
+3. 
+Edit the readme file and push it to the website
+https://github.com/simoncxt/stats507/commit/6b1a932347df5014f987ed31adcbbc066ff86431
+
+4.
